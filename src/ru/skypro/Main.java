@@ -97,10 +97,5 @@ public class Main {
         } else {
             System.out.println("Максимальный платеж при ЗП " + Salary + " равен " + maximumPayment + " рублей. Платеж по кредиту " + monthlyPayment + " рублей. Отказано.");
         }
-
     }
 }
-
-
-
-
